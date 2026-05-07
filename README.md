@@ -1,4 +1,4 @@
-# JNNCE SEM2 2SEM
+# JNNCE SEM2
 
 This repository contains materials and notes for the second semester at JNNCE.
 
